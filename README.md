@@ -7,7 +7,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
+🔭 I’m currently working on a freelance job and my personal site
   
 🌱 I’m currently learning : Node.js
 
