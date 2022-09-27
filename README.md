@@ -9,6 +9,8 @@
 # 💫About Me :
 
    I'm a fullStack Developer from Salvador-BA!
+   
+🎓 I'm a Computer Science student at Universidade Federal da Bahia (UFBA)
 
 🔭 I’m currently working on a freelance job and my personal site
   
