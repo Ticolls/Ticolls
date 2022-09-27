@@ -17,11 +17,13 @@
   📫 How to reach me:  
   Mail me at "ticolls@hotmail.com" 
 
+  
 ## 🌐Socials
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-seixas-4b5781251/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ticolls/Ticolls)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+  
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,13 +47,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ticolls&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ticolls&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+  
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ticolls&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
----
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
+  
 ![](https://komarev.com/ghpvc/?username=Ticolls&label=Visitors+Count&color=brightgreen)
 </div>
