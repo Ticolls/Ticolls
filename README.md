@@ -7,6 +7,9 @@
 <div align="center">
   
 # 💫About Me :
+
+   I'm a fullStack Developer from Salvador-BA!
+
 🔭 I’m currently working on a freelance job and my personal site
   
 🌱 I’m currently learning : Node.js
@@ -15,9 +18,9 @@
   Mail me at "ticolls@hotmail.com" 
 
 ## 🌐Socials
-[![Linkedin](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)](https://www.linkedin.com/in/thiago-seixas-4b5781251/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-seixas-4b5781251/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ticolls/Ticolls)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
