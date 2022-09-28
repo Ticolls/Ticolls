@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on a freelance job and my personal site
   
-🌱 I’m currently learning : Node.js
+🌱 I’m currently learning : TypeScript
 
   📫 How to reach me:  
   Mail me at "ticolls@hotmail.com" 
