@@ -11,10 +11,8 @@
    I'm a fullStack Developer from Salvador-BA!
    
 🎓 I'm a Computer Science student at Universidade Federal da Bahia (UFBA)
-
-🔭 I’m currently working on a freelance job and my personal site
   
-🌱 I’m currently learning : Sass and Prisma
+🌱 I’m currently learning : JAVA
 
   📫 How to reach me:  
   Mail me at "ticolls@hotmail.com" 
