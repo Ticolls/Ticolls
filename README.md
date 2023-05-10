@@ -43,11 +43,6 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-  
-  
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Ticolls&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ticolls&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   
 ![](https://komarev.com/ghpvc/?username=Ticolls&label=Visitors+Count&color=brightgreen)
