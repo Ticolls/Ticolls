@@ -12,7 +12,7 @@
    
 🎓 I'm a Computer Science student at Universidade Federal da Bahia (UFBA)
   
-🌱 I’m currently learning : Spring
+🌱 I’m currently learning : GOlang
 
   📫 How to reach me:  
   Mail me at "ticolls@hotmail.com" 
