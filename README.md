@@ -11,7 +11,7 @@
    
 🎓 I'm a Computer Science student at Universidade Federal da Bahia (UFBA)
   
-🌱 I’m currently learning : GOlang
+🌱 I’m currently learning : Golang
 
   📫 How to reach me:  
   Mail me at "ticolls@hotmail.com" 
